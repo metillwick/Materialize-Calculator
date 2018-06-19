@@ -1,0 +1,20 @@
+h1 {
+  margin-top: 50px;
+}
+.top {
+  margin-top: 25px;
+}
+
+#label {
+  /* border-bottom:  */
+  color: #FFF;
+  font-size: 2rem;
+}
+
+div {
+  text-align: center;
+}
+
+#equals {
+  width: 100%
+}
